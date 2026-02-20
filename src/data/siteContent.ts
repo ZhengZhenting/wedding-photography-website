@@ -1,18 +1,17 @@
 export const siteContent = {
-  brand: "Aurélie Laurent",
+  brand: "Zheng Wedding Photography",
   tagline: "Timeless moments, artfully told",
-  heroSubtitle: "Wedding photographer based in Europe",
+  heroSubtitle: "Wedding photographer based in Berlin",
 
   about: {
     headline: "Every love story deserves to be remembered beautifully",
     intro:
-      "I'm Aurélie, a destination wedding photographer drawn to the quiet, intimate moments that make each love story unique. My approach is unhurried and unobtrusive — I believe the most powerful images emerge when people feel truly at ease.",
+      "My photography is rooted in a clean, architectural eye — I find beauty in light, composition, and the quiet moments that tell a deeper story. Every frame is intentional, blending documentary honesty with a fine-art sensibility to create images that are timeless and elegant.",
     philosophy:
-      "I don't chase trends. I chase light, emotion, and the spaces in between. My work is rooted in documentary storytelling with a fine-art sensibility — timeless photographs that feel as relevant in fifty years as they do today.",
+      "Before picking up a camera professionally, I trained as an architect for over ten years — shaping my eye for structure, proportion, and beauty in every detail. Photography has been a lifelong passion, and for the past five years I've worked as a freelance photographer across hundreds of weddings, events, and fashion shoots. I work in both digital and analogue formats, so if you have a love for film photography, I'd be happy to accommodate.",
     contact: {
-      email: "hello@aurelielaurent.com",
-      instagram: "https://instagram.com/aurelielaurent",
-      pinterest: "https://pinterest.com/aurelielaurent",
+      email: "zhentingzheng@yahoo.com",
+      instagram: "https://www.instagram.com/zheng_weddingphotography/",
     },
   },
 
@@ -23,7 +22,7 @@ export const siteContent = {
   ],
 
   footer: {
-    copyright: "Aurélie Laurent Photography",
-    tagline: "Based in Paris · Available worldwide",
+    copyright: "Zheng Wedding Photography",
+    tagline: "Based in Berlin · Available all over Europe",
   },
 };

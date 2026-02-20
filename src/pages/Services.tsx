@@ -37,7 +37,7 @@ const Services = () => {
               Every wedding is different. If you'd like a bespoke package, I'd love to hear from you.
             </p>
             <a
-              href="mailto:hello@aurelielaurent.com?subject=Custom Package Inquiry"
+              href="mailto:zhentingzheng@yahoo.com?subject=Custom Package Inquiry"
               className="text-label mt-6 inline-block border-b border-foreground pb-1 text-foreground transition-colors hover:border-muted-foreground hover:text-muted-foreground"
             >
               Get in Touch
