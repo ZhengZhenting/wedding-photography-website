@@ -19,6 +19,7 @@ const App = () => (
       <Sonner />
       <BrowserRouter basename="/wedding-photography-website">
         <Routes>
+          {/* 确保根路径 "/" 排在第一位，并明确对应 Index 组件 */}
           <Route path="/" element={<Index />} />
           <Route path="/portfolio" element={<Portfolio />} />
           <Route path="/portfolio/:slug" element={<WeddingDetail />} />
