@@ -5,6 +5,9 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
+  // 添加这一行：设置基础路径为你的仓库名
+  base: '/wedding-photography-website/',
+  
   server: {
     host: "::",
     port: 8080,
