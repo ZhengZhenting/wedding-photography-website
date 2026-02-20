@@ -20,14 +20,6 @@ const Footer = () => {
           Instagram
         </a>
         <a
-          href={siteContent.about.contact.pinterest}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-label text-muted-foreground transition-colors hover:text-foreground"
-        >
-          Pinterest
-        </a>
-        <a
           href={`mailto:${siteContent.about.contact.email}`}
           className="text-label text-muted-foreground transition-colors hover:text-foreground"
         >

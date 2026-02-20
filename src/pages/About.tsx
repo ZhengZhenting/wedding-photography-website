@@ -54,14 +54,6 @@ const About = () => {
                   >
                     Instagram
                   </a>
-                  <a
-                    href={about.contact.pinterest}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-label text-muted-foreground transition-colors hover:text-foreground"
-                  >
-                    Pinterest
-                  </a>
                 </div>
               </div>
             </div>
