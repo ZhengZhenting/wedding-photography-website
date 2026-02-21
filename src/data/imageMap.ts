@@ -91,7 +91,7 @@ import detail8h from "@/assets/images/detail-8h.jpg";
 
 export const imageMap: Record<string, string> = {
   hero: heroImg,
-  aboutPortrait: aboutPortrait,
+  "about-portrait": aboutPortrait,
 
   "cover-1": cover1,
   "cover-2": cover2,

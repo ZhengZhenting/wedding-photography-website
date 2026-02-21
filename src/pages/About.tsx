@@ -15,7 +15,7 @@ const About = () => {
             <div className="aspect-[3/4] overflow-hidden">
               <img
                 src={imageMap["about-portrait"]}
-                alt="Aurélie Laurent"
+                alt="Zhenting Zheng"
                 className="h-full w-full object-cover"
               />
             </div>
