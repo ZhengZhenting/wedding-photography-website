@@ -53,13 +53,15 @@ const WeddingDetail = () => {
       <section className="mx-auto max-w-5xl px-6 py-20 md:px-12 md:py-28">
         <div className="space-y-8 md:space-y-12">
           {wedding.images.map((imgKey, i) => (
-            <FadeIn key={i} delay={0.05}>
-              <img
-                src={imageMap[imgKey]}
-                alt={`${wedding.title} — Image ${i + 1}`}
-                loading="lazy"
-                className="w-full"
+            <FadeIn key={i} delay={0.03}>
+              <div className="flex justify-center">
+                 <img
+                  src={imageMap[imgKey]}
+                  alt={`${wedding.title} — Image ${i + 1}`}
+                  loading="lazy"
+                  className="w-3/5 h-auto object-contain"
               />
+              </div>
             </FadeIn>
           ))}
         </div>

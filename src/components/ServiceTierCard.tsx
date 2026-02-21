@@ -25,7 +25,7 @@ const tierStyles: Record<string, { bg: string; text: string; muted: string; divi
     btnHover: "",
   },
   legacy: {
-    bg: "bg-[hsl(30,5%,28%)]",
+    bg: "bg-[hsl(40,2%,45%)]",
     text: "text-white",
     muted: "text-white/60",
     divider: "bg-white/20",
