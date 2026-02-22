@@ -5,7 +5,8 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: mode === "production" ? '/wedding-photography-website/' : '/',
+  // 添加这一行：设置基础路径为你的仓库名
+  base: '/wedding-photography-website/',
   assetsInclude: ['**/*.JPG', '**/*.jpg'],
   
   server: {

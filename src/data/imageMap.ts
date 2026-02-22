@@ -57,18 +57,18 @@ import detail5c from "@/assets/images/detail-5c.jpg";
 import detail5d from "@/assets/images/detail-5d.jpg";
 import detail5e from "@/assets/images/detail-5e.jpg";
 import detail5f from "@/assets/images/detail-5f.jpg";
-import detail5g from "@/assets/images/detail-5g.JPG";
-import detail5h from "@/assets/images/detail-5h.JPG";
-import detail5i from "@/assets/images/detail-5i.JPG";
-import detail5j from "@/assets/images/detail-5j.JPG"; 
-import detail5k from "@/assets/images/detail-5k.JPG";
-import detail5l from "@/assets/images/detail-5l.JPG";
+import detail5g from "@/assets/images/detail-5g.jpg";
+import detail5h from "@/assets/images/detail-5h.jpg";
+import detail5i from "@/assets/images/detail-5i.jpg";
+import detail5j from "@/assets/images/detail-5j.jpg"; 
+import detail5k from "@/assets/images/detail-5k.jpg";
+import detail5l from "@/assets/images/detail-5l.jpg";
 
 import detail6a from "@/assets/images/detail-6a.jpg";
 import detail6b from "@/assets/images/detail-6b.jpg";
 import detail6c from "@/assets/images/detail-6c.jpg";
-import detail6d from "@/assets/images/detail-6d.JPG";
-import detail6e from "@/assets/images/detail-6e.JPG";
+import detail6d from "@/assets/images/detail-6d.jpg";
+import detail6e from "@/assets/images/detail-6e.jpg";
 import detail6f from "@/assets/images/detail-6f.jpg";
 
 import detail7a from "@/assets/images/detail-7a.jpg";

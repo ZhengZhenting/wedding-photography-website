@@ -17,7 +17,7 @@ const App = () => (
     <TooltipProvider>
       <Toaster />
       <Sonner />
-      <BrowserRouter basename={import.meta.env.MODE === "production" ? "/wedding-photography-website" : ""}>
+      <BrowserRouter basename="/wedding-photography-website">
         <Routes>
           {/* 确保根路径 "/" 排在第一位，并明确对应 Index 组件 */}
           <Route path="/" element={<Index />} />
