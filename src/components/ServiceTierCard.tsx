@@ -52,7 +52,7 @@ const ServiceTierCard = ({ tier, index, featured = false }: ServiceTierCardProps
           ))}
         </ul>
         <a
-          href={`mailto:zhentingzheng@yahoo.com?subject=Inquiry — ${tier.name} Package`}
+          href={`mailto:zhentingzheng@yahoo.com?subject=Inquiry - ${tier.name} Package`}
           className={`mt-8 inline-block border px-8 py-3 text-label transition-colors duration-300 ${style.btnBorder}`}
         >
           Inquire
