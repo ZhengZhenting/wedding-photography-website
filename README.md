@@ -1,73 +1,42 @@
-# Welcome to your Lovable project
+# Wedding Photography Portfolio
 
-## Project info
+A high-end, editorial-style wedding photography portfolio website — built with **React + Vite** and deployed as a fully static site on **GitHub Pages**. This is a personal project created to present my work as a freelance wedding photographer with a clean, cinematic, and luxury brand identity.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+> **Live site**: [[https://your-github-username.github.io/your-repo-name/](https://your-github-username.github.io/your-repo-name/)  
+> *(Replace with your actual GitHub Pages URL)*](https://zhengzhenting.github.io/wedding-photography-website/)
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 👤 About
 
-**Use Lovable**
+I'm a landscape architect with six years of professional experience. Alongside that, I've been working as a freelance wedding photographer — two creative disciplines that have always complemented each other in how I see composition, light, and spatial storytelling.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+More recently, I returned to university to study computer science (B.Sc. Media Informatics at BHT Berlin). My goal is to integrate development skills into my toolkit, and this website is a direct outcome of that. It combines my architectural eye for design, my photographer's attention to visual narrative, and my growing abilities as a developer — including the use of AI-assisted coding tools like Lovable to accelerate the build process.
 
-Changes made via Lovable will be committed automatically to this repo.
+The result is a fully custom, static portfolio site that I built myself, without templates or drag-and-drop platforms.
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🛠️ Tech Stack
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- **React** – component-based UI  
+- **Vite** – fast build tool  
+- **TypeScript**  
+- **Plain CSS / CSS Modules**  
+- **GitHub Pages** – static hosting  
 
-Follow these steps:
+No Tailwind, no external UI frameworks — clean and maintainable.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 📁 What I Did After the Lovable Generation
 
-# Step 3: Install the necessary dependencies.
-npm i
+The initial project was generated via **Lovable** (vibe coding) using a detailed prompt. After that, I made the following changes:
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+- ✅ Replaced all placeholder images with **my own wedding photography work**  
+- ✅ Updated image assets under `src/assets/images/`  
+- ✅ Adjusted content in data files (`weddings.js`, `services.js`, `siteContent.js`)  
+- ✅ Modified layout and styling for finer visual tuning  
+- ✅ Built and deployed the site to **GitHub Pages** (static hosting)  
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+The site remains fully functional as a static site without any backend or API dependencies.
