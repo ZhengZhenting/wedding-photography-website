@@ -1,6 +1,6 @@
 # Wedding Photography Portfolio
 
-A high-end, editorial-style wedding photography portfolio website — built with **React + Vite** and deployed as a fully static site on **GitHub Pages**. This is a personal project created to present my work as a freelance wedding photographer with a clean, cinematic, and luxury brand identity.
+A high-end, editorial-style wedding photography portfolio website — built by vibe coding using **Lovable** with **React + Vite** and deployed as a fully static site on **GitHub Pages**. This is a personal project created to present my work as a freelance wedding photographer with a clean, cinematic, and luxury brand identity.
 
 > **Live site**:https://zhengzhenting.github.io/wedding-photography-website/
 ---
