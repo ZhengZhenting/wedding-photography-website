@@ -11,8 +11,6 @@ I'm a landscape architect with six years of professional experience. Alongside t
 
 More recently, I returned to university to study computer science (B.Sc. Media Informatics at BHT Berlin). My goal is to integrate development skills into my toolkit, and this website is a direct outcome of that. It combines my architectural eye for design, my photographer's attention to visual narrative, and my growing abilities as a developer — including the use of AI-assisted coding tools like Lovable to accelerate the build process.
 
-The result is a fully custom, static portfolio site that I built myself, without templates or drag-and-drop platforms.
-
 ---
 
 ## 🛠️ Tech Stack
